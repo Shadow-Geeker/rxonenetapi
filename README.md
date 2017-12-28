@@ -13,7 +13,7 @@ Usage:
   ```
   ### Maven:
   ```xml
-    <dependency><br>
+    <dependency>
       <groupId>com.qbssh.lyd.rxonenetapi</groupId>
       <artifactId>rxonenetapi</artifactId>
       <version>0.1.0</version>
